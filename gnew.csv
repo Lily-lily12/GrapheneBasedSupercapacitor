@@ -1,0 +1,513 @@
+DOI,MATERIAL 1,MATERIAL 2,MATERIAL 3,MATERIAL 4,Electrolyte Concentration,ELECTROLYTE ,Electrode Configuration,Cell Configuration,Specific Surface Area(m2/g),Pore Size(mm),CURRENT DENSITY(A/g),Voltage Window,Cycle Number,Pore Volume(cm3/g),Scan Rate(mv/s),Capacitance(F/g)
+10.1016/j.jpowsour.2011.06.038,Graphene nanosheets,SnO2,MWCNTs,,20, KOH,two electrode configuration,supercapacitor test cell,350,0.000005,6,-0.05,6000,0.9,106.49,218.22
+10.1016/j.jpowsour.2011.06.038,Graphene nanosheets,SnO2,MWCNTs,,20, KOH,two electrode configuration,supercapacitor test cell,350,0.000005,6,-0.05,6000,0.9,119.74,216.77
+10.1016/j.jpowsour.2011.06.038,Graphene nanosheets,SnO2,MWCNTs,,20, KOH,two electrode configuration,supercapacitor test cell,350,0.000005,6,-0.05,6000,0.9,132.98,203.32
+10.1016/j.jpowsour.2011.06.038,Graphene nanosheets,SnO2,MWCNTs,,20, KOH,two electrode configuration,supercapacitor test cell,350,0.000005,6,-0.05,6000,0.9,146.22,184.98
+10.1016/j.jpowsour.2011.06.038,Graphene nanosheets,SnO2,MWCNTs,,20, KOH,two electrode configuration,supercapacitor test cell,350,0.000005,6,-0.05,6000,0.9,159.46,178.31
+10.1016/j.jpowsour.2011.06.038,Graphene nanosheets,SnO2,MWCNTs,,20, KOH,two electrode configuration,supercapacitor test cell,350,0.000005,6,-0.05,6000,0.9,172.71,175.60
+10.1016/j.jpowsour.2011.06.038,Graphene nanosheets,SnO2,MWCNTs,,20, KOH,two electrode configuration,supercapacitor test cell,350,0.000005,6,-0.05,6000,0.9,185.95,172.92
+10.1016/j.jpowsour.2011.06.038,Graphene nanosheets,SnO2,MWCNTs,,20, KOH,two electrode configuration,supercapacitor test cell,350,0.000005,6,-0.05,6000,0.9,196.60,170.92
+10.1016/j.jpowsour.2011.06.038,Graphene nanosheets,SnO2,MWCNTs,,20, KOH,two electrode configuration,supercapacitor test cell,350,0.000005,6,-0.05,291.68,0.9,20,220.51
+10.1016/j.jpowsour.2011.06.038,Graphene nanosheets,SnO2,MWCNTs,,20, KOH,two electrode configuration,supercapacitor test cell,350,0.000005,6,-0.05,966.96,0.9,20,209.13
+10.1016/j.jpowsour.2011.06.038,Graphene nanosheets,SnO2,MWCNTs,,20, KOH,two electrode configuration,supercapacitor test cell,350,0.000005,6,-0.05,1859.54,0.9,20,200.77
+10.1016/j.jpowsour.2011.06.038,Graphene nanosheets,SnO2,MWCNTs,,20, KOH,two electrode configuration,supercapacitor test cell,350,0.000005,6,-0.05,2703.21,0.9,20,192.42
+10.1016/j.jpowsour.2011.06.038,Graphene nanosheets,SnO2,MWCNTs,,20, KOH,two electrode configuration,supercapacitor test cell,350,0.000005,6,-0.05,3525.50,0.9,20,183.17
+10.1016/j.jpowsour.2011.06.038,Graphene nanosheets,SnO2,MWCNTs,,20, KOH,two electrode configuration,supercapacitor test cell,350,0.000005,6,-0.05,4991.05,0.9,20,176.12
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,91,7.12,123.70,285.59
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,104,7.12,123.70,288.03
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,117,7.12,123.70,278.25
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,130,7.12,123.70,272.32
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,143,7.12,123.70,272.97
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,156,7.12,123.70,272.56
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,169,7.12,123.70,266.22
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,182,7.12,123.70,265.63
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,195,7.12,123.70,264.33
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,208,7.12,123.70,260.73
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,221,7.12,123.70,260.65
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,234,7.12,123.70,261.66
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,247,7.12,123.70,263.19
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,260,7.12,123.70,261.06
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,273,7.12,123.70,260.89
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,286,7.12,123.70,262.52
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,299,7.12,123.70,261.47
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,312,7.12,123.70,263.23
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,325,7.12,123.70,269.95
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,338,7.12,123.70,264.05
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,351,7.12,123.70,262.56
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,364,7.12,123.70,263.13
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,377,7.12,123.70,261.79
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,390,7.12,123.70,262.42
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,403,7.12,123.70,269.21
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,416,7.12,123.70,263.97
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,429,7.12,123.70,261.88
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,442,7.12,123.70,262.26
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,455,7.12,123.70,262.73
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,468,7.12,123.70,260.57
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,481,7.12,123.70,268.52
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,494,7.12,123.70,263.97
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,507,7.12,123.70,262.77
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,520,7.12,123.70,268.11
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,533,7.12,123.70,266.11
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,546,7.12,123.70,265.40
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,559,7.12,123.70,267.93
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,572,7.12,123.70,264.73
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,585,7.12,123.70,263.13
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,598,7.12,123.70,266.24
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,611,7.12,123.70,266.37
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,624,7.12,123.70,265.45
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,637,7.12,123.70,268.72
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,650,7.12,123.70,269.00
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,663,7.12,123.70,269.23
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,676,7.12,123.70,270.00
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,689,7.12,123.70,269.30
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,702,7.12,123.70,268.19
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,715,7.12,123.70,268.07
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,728,7.12,123.70,265.16
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,741,7.12,123.70,263.49
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,754,7.12,123.70,261.99
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,767,7.12,123.70,268.17
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,780,7.12,123.70,264.02
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,793,7.12,123.70,263.16
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,806,7.12,123.70,269.94
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,819,7.12,123.70,264.01
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,832,7.12,123.70,262.74
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,845,7.12,123.70,262.09
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,858,7.12,123.70,261.47
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,871,7.12,123.70,260.86
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,884,7.12,123.70,260.41
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,897,7.12,123.70,260.38
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,910,7.12,123.70,265.04
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,923,7.12,123.70,269.48
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,936,7.12,123.70,264.42
+10.1016/j.matchemphys.2011.07.043,reduced graphene oxide (rGO),cobalt oxide (Co₃O₄),,,6,KOH,three-electrode,thin-walled cell configuration,1097.24,0.000065,1,0.075,949,7.12,123.70,262.53
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,1097.24,0.000086,6.0,1.4,27821,7.12,4,569.96
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,8,523.34
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,12,503.77
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,16,486.20
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,20,483.03
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,24,483.30
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,28,488.17
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,32,487.40
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,36,485.66
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,40,483.20
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,44,482.01
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,48,480.76
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,52,472.89
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,56,465.99
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,60,459.48
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,64,453.32
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,68,448.63
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,72,440.81
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,76,434.93
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,80,427.51
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,84,419.65
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,88,413.52
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,92,408.83
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,96,397.11
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,100,393.94
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,104,393.90
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,108,391.18
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,112,390.09
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,116,387.64
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,120,386.21
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,124,383.71
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,128,381.23
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,132,378.76
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,136,376.27
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,140,373.77
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,144,371.28
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,148,369.31
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,152,366.67
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,156,366.18
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,160,363.81
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,164,362.56
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.0,1.4,27821,7.12,168,361.31
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,0.6,1.4,27821,7.12,100,277.34
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,1.2,1.4,27821,7.12,100,274.25
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,1.8,1.4,27821,7.12,100,262.52
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,2.4,1.4,27821,7.12,100,256.41
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,3,1.4,27821,7.12,100,248.71
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,3.6,1.4,27821,7.12,100,244.55
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,4.2,1.4,27821,7.12,100,241.84
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,4.8,1.4,27821,7.12,100,241.77
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,5.4,1.4,27821,7.12,100,237.80
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6,1.4,27821,7.12,100,235.50
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,6.6,1.4,27821,7.12,100,232.60
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,7.2,1.4,27821,7.12,100,230.22
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,7.8,1.4,27821,7.12,100,227.73
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,8.4,1.4,27821,7.12,100,224.16
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,9,1.4,27821,7.12,100,223.82
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,9.6,1.4,27821,7.12,100,222.17
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,10.2,1.4,27821,7.12,100,220.36
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,10.8,1.4,27821,7.12,100,220.52
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,11.4,1.4,27821,7.12,100,220.82
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,12,1.4,27821,7.12,100,220.59
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,12.6,1.4,27821,7.12,100,219.30
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,13.2,1.4,27821,7.12,100,216.76
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,13.8,1.4,27821,7.12,100,216.17
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,14.4,1.4,27821,7.12,100,216.38
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,15,1.4,27821,7.12,100,217.19
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,15.6,1.4,27821,7.12,100,213.01
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,16.2,1.4,27821,7.12,100,210.47
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,16.8,1.4,27821,7.12,100,208.62
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,17.4,1.4,27821,7.12,100,207.49
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,18,1.4,27821,7.12,100,206.32
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,18.6,1.4,27821,7.12,100,206.39
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,19.2,1.4,27821,7.12,100,204.84
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,19.8,1.4,27821,7.12,100,205.71
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,20.4,1.4,27821,7.12,100,204.12
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,21,1.4,27821,7.12,100,203.39
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,21.6,1.4,27821,7.12,100,202.64
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,22.2,1.4,27821,7.12,100,202.65
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,22.8,1.4,27821,7.12,100,201.91
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,23.4,1.4,27821,7.12,100,201.91
+10.1007/s12274-012-0246-X,graphene,nickel cobaltite,,,6,KOH,asymmetric electrode,solartron 1470E Multichannel Potentiostat,71,0.000086,24,1.4,27821,7.12,100,201.15
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,0,237.40
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,6,219.20
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,12,255.25
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,18,283.58
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,24,301.99
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,30,305.13
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,36,308.51
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,42,316.94
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,48,317.65
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,54,316.93
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,60,316.94
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,66,318.22
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,72,321.41
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,78,322.69
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,84,324.01
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,90,326.85
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,96,326.24
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,102,325.13
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,108,326.48
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,114,327.16
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,120,329.64
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,126,330.27
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,132,330.93
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,138,331.61
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,144,332.17
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,150,333.54
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,156,333.71
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,162,334.73
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,168,335.12
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,174,336.00
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,180,336.62
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,186,337.74
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,192,338.59
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,198,337.87
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,204,337.27
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,210,338.71
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,216,339.35
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,222,340.53
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,228,341.17
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,234,341.10
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,240,341.53
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,246,341.67
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,252,342.37
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,258,342.38
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,264,343.01
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,270,343.63
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,276,343.64
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,282,344.34
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,288,344.51
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,294,344.91
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,300,345.28
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,306,345.57
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,312,346.18
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,318,346.20
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,324,346.82
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,330,347.46
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,336,347.46
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,342,348.15
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,348,348.26
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,354,348.73
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,360,349.02
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,366,349.36
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,372,349.36
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,378,349.38
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,384,349.99
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,390,350.00
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,396,350.00
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,402,350.00
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,408,350.01
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,414,350.02
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,420,350.02
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,426,350.03
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,432,350.04
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,438,350.04
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,444,350.05
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,450,350.05
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,456,350.05
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,462,350.05
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,468,350.04
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,474,350.04
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,480,350.03
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,486,350.01
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,492,348.98
+doi:10.1016/j.carbon.2012.01.028,highly corrugated graphene sheets,graphite oxide,,,6,KOH, graphene sheets three-electrode system,a three-electrode cell,517.9,0.0000275,10,-0.05,5000,1.45,498,348.11
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.09,-0.4,4500,7.12,100,251.64
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.18,-0.4,4500,7.12,100,245.72
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.27,-0.4,4500,7.12,100,238.65
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.36,-0.4,4500,7.12,100,231.63
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.45,-0.4,4500,7.12,100,224.35
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.54,-0.4,4500,7.12,100,218.36
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.63,-0.4,4500,7.12,100,213.12
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.72,-0.4,4500,7.12,100,208.45
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.81,-0.4,4500,7.12,100,203.59
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.9,-0.4,4500,7.12,100,198.44
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.99,-0.4,4500,7.12,100,193.80
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.08,-0.4,4500,7.12,100,192.91
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.17,-0.4,4500,7.12,100,192.07
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.26,-0.4,4500,7.12,100,191.19
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.35,-0.4,4500,7.12,100,190.37
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.44,-0.4,4500,7.12,100,189.36
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.53,-0.4,4500,7.12,100,188.41
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.62,-0.4,4500,7.12,100,187.57
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.71,-0.4,4500,7.12,100,186.59
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.8,-0.4,4500,7.12,100,185.86
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.89,-0.4,4500,7.12,100,184.91
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.98,-0.4,4500,7.12,100,183.89
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.07,-0.4,4500,7.12,100,183.07
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.16,-0.4,4500,7.12,100,182.23
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.25,-0.4,4500,7.12,100,181.24
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.34,-0.4,4500,7.12,100,180.23
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.43,-0.4,4500,7.12,100,179.44
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.52,-0.4,4500,7.12,100,178.47
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.61,-0.4,4500,7.12,100,177.59
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.7,-0.4,4500,7.12,100,176.76
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.79,-0.4,4500,7.12,100,175.72
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.88,-0.4,4500,7.12,100,174.55
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.97,-0.4,4500,7.12,100,173.81
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.06,-0.4,4500,7.12,100,173.40
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.15,-0.4,4500,7.12,100,172.84
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.24,-0.4,4500,7.12,100,172.51
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.33,-0.4,4500,7.12,100,172.16
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.42,-0.4,4500,7.12,100,171.82
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.51,-0.4,4500,7.12,100,171.65
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.6,-0.4,4500,7.12,100,171.21
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.69,-0.4,4500,7.12,100,171.14
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.78,-0.4,4500,7.12,100,170.97
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.87,-0.4,4500,7.12,100,170.80
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.96,-0.4,4500,7.12,100,170.63
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,4.05,-0.4,4500,7.12,100,170.46
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,4.14,-0.4,4500,7.12,100,170.29
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,4.23,-0.4,4500,7.12,100,170.29
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.09,-0.4,4500,7.12,20,199.20
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.18,-0.4,4500,7.12,20,198.11
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.27,-0.4,4500,7.12,20,193.26
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.36,-0.4,4500,7.12,20,187.74
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.45,-0.4,4500,7.12,20,182.50
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.54,-0.4,4500,7.12,20,176.87
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.63,-0.4,4500,7.12,20,172.96
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.72,-0.4,4500,7.12,20,169.68
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.81,-0.4,4500,7.12,20,166.55
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.9,-0.4,4500,7.12,20,163.19
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,0.99,-0.4,4500,7.12,20,159.13
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.08,-0.4,4500,7.12,20,158.20
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.17,-0.4,4500,7.12,20,157.30
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.26,-0.4,4500,7.12,20,156.62
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.35,-0.4,4500,7.12,20,155.92
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.44,-0.4,4500,7.12,20,155.23
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.53,-0.4,4500,7.12,20,154.64
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.62,-0.4,4500,7.12,20,154.06
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.71,-0.4,4500,7.12,20,153.32
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.8,-0.4,4500,7.12,20,152.60
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.89,-0.4,4500,7.12,20,151.93
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,1.98,-0.4,4500,7.12,20,151.22
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.07,-0.4,4500,7.12,20,150.53
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.16,-0.4,4500,7.12,20,149.97
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.25,-0.4,4500,7.12,20,149.32
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.34,-0.4,4500,7.12,20,148.62
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.43,-0.4,4500,7.12,20,148.09
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.52,-0.4,4500,7.12,20,147.40
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.61,-0.4,4500,7.12,20,146.71
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.7,-0.4,4500,7.12,20,146.01
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.79,-0.4,4500,7.12,20,145.32
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.88,-0.4,4500,7.12,20,144.28
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,2.97,-0.4,4500,7.12,20,143.58
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.06,-0.4,4500,7.12,20,143.41
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.15,-0.4,4500,7.12,20,143.06
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.24,-0.4,4500,7.12,20,142.70
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.33,-0.4,4500,7.12,20,142.55
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.42,-0.4,4500,7.12,20,142.19
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.51,-0.4,4500,7.12,20,141.83
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.6,-0.4,4500,7.12,20,141.48
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.69,-0.4,4500,7.12,20,141.32
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.78,-0.4,4500,7.12,20,141.16
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.87,-0.4,4500,7.12,20,140.96
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,3.96,-0.4,4500,7.12,20,140.78
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,4.05,-0.4,4500,7.12,20,140.62
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,4.14,-0.4,4500,7.12,20,140.53
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,4.23,-0.4,4500,7.12,20,140.36
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,4.32,-0.4,4500,7.12,20,140.26
+10.1021/nn3034309,Boron-doped graphene nanoplatelets,borane-reduced graphene oxide,,,6,KOH,two-electrode,two-electrode symmetrical supercapacitor cell,466,0.00000213,4.41,-0.4,4500,7.12,20,140.09
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,8,199.57
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,16,199.44
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,24,199.44
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,32,198.93
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,40,198.92
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,48,198.62
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,56,198.35
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,64,198.16
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,72,198.01
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,80,197.54
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,88,197.03
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,96,197.00
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,104,197.01
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,112,196.19
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,120,196.19
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,128,196.01
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,136,195.65
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,144,195.64
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,152,195.02
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,160,195.76
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,168,194.29
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,176,194.32
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,184,193.35
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,192,194.29
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,200,194.03
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,208,193.90
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,216,193.49
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,224,193.49
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,232,193.16
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,240,192.95
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,248,192.95
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,256,192.54
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,264,192.41
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,272,192.38
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,280,191.66
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,288,191.59
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,296,191.33
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,304,191.06
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,312,191.11
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,320,190.51
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,328,190.51
+10.1002/adma.201201920,crumpled nitrogen-doped graphene nanosheets,NH 2 CN,,,6,KOH (aqueous),three-electrode system,fuel cell system,465,0.0000063,5.97,-0.5,5000,3.42,336,190.51
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,6,244.66
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,10,244.13
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,14,242.40
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,18,240.62
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,22,239.68
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,26,238.25
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,30,236.23
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,34,234.79
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,38,233.30
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,42,231.27
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,46,229.18
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,50,227.19
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,54,225.13
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,58,222.56
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,62,221.45
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,66,219.57
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,70,216.80
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,74,215.32
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,78,213.59
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,82,211.88
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,86,209.28
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,90,207.14
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,94,204.37
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,98,201.60
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,2,174.43
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,6,171.99
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,10,170.23
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,14,168.25
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,18,166.03
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,22,164.80
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,26,163.63
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,30,160.58
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,34,159.22
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,38,157.31
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,42,156.87
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,46,153.18
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,50,149.97
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,54,148.72
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,58,146.59
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,62,143.37
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,66,139.85
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,70,137.18
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,74,135.03
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,78,133.09
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.97,3,100000,15,82,131.49
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,1.4,3,100000,15,50,295.58
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,2.1,3,100000,15,50,291.16
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,2.8,3,100000,15,50,285.41
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,3.5,3,100000,15,50,282.24
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,4.2,3,100000,15,50,278.61
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,4.9,3,100000,15,50,274.75
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.6,3,100000,15,50,272.11
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,6.3,3,100000,15,50,270.24
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,7,3,100000,15,50,268.16
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,7.7,3,100000,15,50,266.26
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,8.4,3,100000,15,50,264.24
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,9.1,3,100000,15,50,261.94
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,9.8,3,100000,15,50,259.95
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,10.5,3,100000,15,50,259.10
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,11.2,3,100000,15,50,256.85
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,11.9,3,100000,15,50,255.81
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,12.6,3,100000,15,50,254.67
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,13.3,3,100000,15,50,254.14
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,14,3,100000,15,50,252.35
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,14.7,3,100000,15,50,251.11
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,15.4,3,100000,15,50,250.69
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,1.38,3,100000,15,50,257.34
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,1.76,3,100000,15,50,253.02
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,2.14,3,100000,15,50,249.91
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,2.52,3,100000,15,50,246.85
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,2.9,3,100000,15,50,243.57
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,3.28,3,100000,15,50,241.19
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,3.66,3,100000,15,50,238.22
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,4.04,3,100000,15,50,235.74
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,4.42,3,100000,15,50,234.01
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,4.8,3,100000,15,50,231.44
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.18,3,100000,15,50,229.63
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.56,3,100000,15,50,227.57
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,5.94,3,100000,15,50,226.09
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,6.32,3,100000,15,50,225.33
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,6.7,3,100000,15,50,223.90
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,7.08,3,100000,15,50,222.61
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,7.46,3,100000,15,50,221.65
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,7.84,3,100000,15,50,220.06
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,8.22,3,100000,15,50,219.04
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,8.6,3,100000,15,50,217.48
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,8.98,3,100000,15,50,216.44
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,9.36,3,100000,15,50,215.88
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,9.74,3,100000,15,50,214.68
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,10.12,3,100000,15,50,212.91
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,10.5,3,100000,15,50,212.04
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,10.88,3,100000,15,50,211.16
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,11.26,3,100000,15,50,210.28
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,11.64,3,100000,15,50,210.28
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,12.02,3,100000,15,50,209.88
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,12.4,3,100000,15,50,208.57
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,12.78,3,100000,15,50,207.77
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,13.16,3,100000,15,50,206.33
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,13.54,3,100000,15,50,205.88
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,13.92,3,100000,15,50,205.02
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,14.3,3,100000,15,50,204.61
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,14.68,3,100000,15,50,204.11
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,15.06,3,100000,15,50,203.23
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,15.44,3,100000,15,50,202.30
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,15.82,3,100000,15,50,203.41
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,16.2,3,100000,15,50,201.46
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,16.58,3,100000,15,50,201.13
+10.1016/j.cocis.2015.10.009,nitrogen-doped graphene,mesoporous graphene,,,1, tetraethylammonium tetrafluoroborate in acetonitrile,two-electrode,two-electrode unit cell,3400,0.0000045,16.96,3,100000,15,50,200.16
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,20,0.11,124,150.00
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,40,0.11,124,150.00
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,60,0.11,124,150.00
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,80,0.11,124,150.00
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,100,0.11,124,150.00
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,120,0.11,124,150.00
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,140,0.11,124,149.09
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,160,0.11,124,148.69
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,180,0.11,124,147.75
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,200,0.11,124,146.49
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,220,0.11,124,146.04
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,240,0.11,124,145.59
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,260,0.11,124,144.72
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,280,0.11,124,146.04
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,300,0.11,124,143.39
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,320,0.11,124,142.52
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,340,0.11,124,141.60
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,360,0.11,124,141.20
+http://dx.doi.org/10.1016/j.carbon.2013.09.085,mesoporous graphene with a three-dimensional structure (3dGR),graphite,graphite oxide,,1.5,tetraethylammonium tetrafluoroborate (TEABF4) in acetonitrile,three-electrode,button cell system,81.7,0.00000525,1.59,1.2,380,0.11,124,140.78
